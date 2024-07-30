@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SAOnlineMart_API.props" />
+</Project>
