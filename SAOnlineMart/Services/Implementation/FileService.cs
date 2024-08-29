@@ -1,6 +1,8 @@
-﻿namespace SAOnlineMart.Services.Implementation
+﻿using SAOnlineMart.Services.Interface;
+
+namespace SAOnlineMart.Services.Implementation
 {
-    public class FileService
+    public class FileService : IFileService
     {
         private IWebHostEnvironment _webHostEnvironment;
 

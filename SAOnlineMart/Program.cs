@@ -2,6 +2,8 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using SAOnlineMart.Data;
+using SAOnlineMart.Services.Interface;
+using SAOnlineMart.Services.Implementation;
 
 namespace SAOnlineMart
 {
@@ -25,6 +27,10 @@ namespace SAOnlineMart
             //Scaffolded identity pages for user registration and login
             builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<AppDbContext>();
 
+            builder.Services.AddScoped<IFileService, FileService>(); //DI for image handling
+            builder.Services.AddScoped<IProductRepoService, ProductRepoService>(); //Di for adding products to db
+
+            builder.Services.AddRazorPages();
 
             var app = builder.Build();
 
