@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IUYqdh5Wew0=",
+  "dgSpecHash": "ZWG3lKrXqTo=",
   "success": true,
-  "projectFilePath": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart_API\\SAOnlineMart\\SAOnlineMart.csproj",
+  "projectFilePath": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart\\SAOnlineMart.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Uzair's Work Account\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Uzair's Work Account\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

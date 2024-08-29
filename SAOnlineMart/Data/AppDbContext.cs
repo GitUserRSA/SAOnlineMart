@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using SAOnlineMart.Models;
 
 namespace SAOnlineMart.Data
 {
@@ -10,5 +11,6 @@ namespace SAOnlineMart.Data
         {
 
         }
+        public DbSet<ProductsModel> Products { get; set; } = default!;
     }
 }
