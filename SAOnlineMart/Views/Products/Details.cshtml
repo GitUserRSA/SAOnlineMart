@@ -10,51 +10,55 @@
     <h4>ProductsModel</h4>
     <hr />
     <dl class="row">
-        <dt class = "col-sm-2">
+        <dt class="col-sm-2">
             @Html.DisplayNameFor(model => model.ProductName)
         </dt>
-        <dd class = "col-sm-10">
+        <dd class="col-sm-10">
             @Html.DisplayFor(model => model.ProductName)
         </dd>
-        <dt class = "col-sm-2">
+        <dt class="col-sm-2">
             @Html.DisplayNameFor(model => model.PriceIncents)
         </dt>
-        <dd class = "col-sm-10">
+        <dd class="col-sm-10">
             @Html.DisplayFor(model => model.PriceIncents)
         </dd>
-        <dt class = "col-sm-2">
+        <dt class="col-sm-2">
             @Html.DisplayNameFor(model => model.ProductImage)
         </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.ProductImage)
-        </dd>
-        <dt class = "col-sm-2">
+        <dd class="col-sm-10">
+
+
+            <img src="~/Uploads/@Model.ProductImage" class="img-thumbnail" />
+
+            <!-- @Html.DisplayFor(model => model.ProductImage) --!>
+                    </dd>
+                    <dt class = "col-sm-2">
             @Html.DisplayNameFor(model => model.ItemDescription)
-        </dt>
-        <dd class = "col-sm-10">
+                    </dt>
+                    <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.ItemDescription)
-        </dd>
-        <dt class = "col-sm-2">
+                    </dd>
+                    <dt class = "col-sm-2">
             @Html.DisplayNameFor(model => model.IsAvailableToBuy)
-        </dt>
-        <dd class = "col-sm-10">
+                    </dt>
+                    <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.IsAvailableToBuy)
-        </dd>
-        <dt class = "col-sm-2">
+                    </dd>
+                    <dt class = "col-sm-2">
             @Html.DisplayNameFor(model => model.CreateAt)
-        </dt>
-        <dd class = "col-sm-10">
+                    </dt>
+                    <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.CreateAt)
-        </dd>
-        <dt class = "col-sm-2">
+                    </dd>
+                    <dt class = "col-sm-2">
             @Html.DisplayNameFor(model => model.UpdateAt)
-        </dt>
-        <dd class = "col-sm-10">
+                    </dt>
+                    <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.UpdateAt)
-        </dd>
-    </dl>
-</div>
-<div>
-    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
-    <a asp-action="Index">Back to List</a>
-</div>
+                    </dd>
+                </dl>
+            </div>
+            <div>
+                <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+                <a asp-action="Index">Back to List</a>
+            </div>
