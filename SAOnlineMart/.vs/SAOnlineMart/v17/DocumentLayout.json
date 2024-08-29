@@ -7,28 +7,32 @@
       "RelativeMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|f:\\appdata\\roaming\\programming\\iteha3_assignment\\saonlinemart\\saonlinemart\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|f:\\appdata\\roaming\\programming\\iteha3_assignment\\saonlinemart\\saonlinemart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|f:\\appdata\\roaming\\programming\\iteha3_assignment\\saonlinemart\\saonlinemart\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|solutionrelative:views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|f:\\appdata\\roaming\\programming\\iteha3_assignment\\saonlinemart\\saonlinemart\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|solutionrelative:views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|f:\\appdata\\roaming\\programming\\iteha3_assignment\\saonlinemart\\saonlinemart\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|solutionrelative:views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|f:\\appdata\\roaming\\programming\\iteha3_assignment\\saonlinemart\\saonlinemart\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|f:\\appdata\\roaming\\programming\\iteha3_assignment\\saonlinemart\\saonlinemart\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|solutionrelative:views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|f:\\appdata\\roaming\\programming\\iteha3_assignment\\saonlinemart\\saonlinemart\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|f:\\appdata\\roaming\\programming\\iteha3_assignment\\saonlinemart\\saonlinemart\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|solutionrelative:views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|f:\\appdata\\roaming\\programming\\iteha3_assignment\\saonlinemart\\saonlinemart\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|f:\\appdata\\roaming\\programming\\iteha3_assignment\\saonlinemart\\saonlinemart\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|solutionrelative:views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|f:\\appdata\\roaming\\programming\\iteha3_assignment\\saonlinemart\\saonlinemart\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|solutionrelative:views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,17 +42,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T21:54:05.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
               "ToolTip": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAMsAAAAAAAAAAAAAwNYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAANYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T21:21:48.983Z",
               "EditorCaption": ""
@@ -61,33 +78,33 @@
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA0AAAAAAAAAAAD4vxYAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-29T21:18:39.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart\\Views\\Products\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
               "ToolTip": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart\\Views\\Products\\Index.cshtml",
               "RelativeToolTip": "Views\\Products\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwEMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-29T21:16:02.535Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart\\Views\\Products\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Products\\Edit.cshtml",
               "ToolTip": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart\\Views\\Products\\Edit.cshtml",
               "RelativeToolTip": "Views\\Products\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-29T21:16:01.644Z",
               "EditorCaption": ""
@@ -100,33 +117,33 @@
               "RelativeDocumentMoniker": "Views\\Products\\Details.cshtml",
               "ToolTip": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart\\Views\\Products\\Details.cshtml",
               "RelativeToolTip": "Views\\Products\\Details.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-29T21:16:01.015Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart\\Views\\Products\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Products\\Delete.cshtml",
               "ToolTip": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart\\Views\\Products\\Delete.cshtml",
               "RelativeToolTip": "Views\\Products\\Delete.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAADwvz4AAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAADwvz4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-29T21:16:00.369Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Create.cshtml",
               "DocumentMoniker": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart\\Views\\Products\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Products\\Create.cshtml",
               "ToolTip": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart\\Views\\Products\\Create.cshtml",
               "RelativeToolTip": "Views\\Products\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAADwvwgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-29T21:15:59.482Z",
               "EditorCaption": ""
