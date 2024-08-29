@@ -51,8 +51,7 @@
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwAUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T22:24:45.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T22:24:45.013Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Services\\Implementation\\CartActions.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAqwAcAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T22:23:02.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T22:23:02.335Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "Services\\Interface\\ICartActions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T22:20:53.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T22:20:53.066Z"
             }
           ]
         }
