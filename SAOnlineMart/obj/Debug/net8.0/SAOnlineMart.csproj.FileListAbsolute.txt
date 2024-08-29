@@ -572,3 +572,9 @@ F:\AppData\Roaming\Programming\ITEHA3_Assignment\SAOnlineMart\SAOnlineMart\obj\D
 F:\AppData\Roaming\Programming\ITEHA3_Assignment\SAOnlineMart\SAOnlineMart\obj\Debug\net8.0\SAOnlineMart.pdb
 F:\AppData\Roaming\Programming\ITEHA3_Assignment\SAOnlineMart\SAOnlineMart\obj\Debug\net8.0\SAOnlineMart.genruntimeconfig.cache
 F:\AppData\Roaming\Programming\ITEHA3_Assignment\SAOnlineMart\SAOnlineMart\obj\Debug\net8.0\ref\SAOnlineMart.dll
+F:\AppData\Roaming\Programming\ITEHA3_Assignment\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\System.Web.Razor.dll
+F:\AppData\Roaming\Programming\ITEHA3_Assignment\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\System.Web.Helpers.dll
+F:\AppData\Roaming\Programming\ITEHA3_Assignment\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\System.Web.WebPages.Deployment.dll
+F:\AppData\Roaming\Programming\ITEHA3_Assignment\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\System.Web.WebPages.Razor.dll
+F:\AppData\Roaming\Programming\ITEHA3_Assignment\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\System.Web.WebPages.dll
+F:\AppData\Roaming\Programming\ITEHA3_Assignment\SAOnlineMart\SAOnlineMart\bin\Debug\net8.0\Microsoft.Web.Infrastructure.dll

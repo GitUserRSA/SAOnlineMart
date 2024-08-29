@@ -25,12 +25,17 @@ namespace SAOnlineMart
             });
 
             //Scaffolded identity pages for user registration and login
-            builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<AppDbContext>();
+            builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = false)
+                .AddRoles<IdentityRole>() //Add identity role to the service
+                .AddEntityFrameworkStores<AppDbContext>();
 
             builder.Services.AddScoped<IFileService, FileService>(); //DI for image handling
             builder.Services.AddScoped<IProductRepoService, ProductRepoService>(); //Di for adding products to db
 
-            builder.Services.AddRazorPages();
+            builder.Services.AddScoped<IRoleManagerService, RoleManagerService>(); //DI for role manager service
+            builder.Services.AddScoped<IAccountSeederService, AccountSeederService>(); //DI for account seeding services
+
+            builder.Services.AddRazorPages(); //Add razor pages services
 
             var app = builder.Build();
 
@@ -52,6 +57,8 @@ namespace SAOnlineMart
             app.MapControllerRoute(
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}");
+
+            app.MapRazorPages(); //Map the pages otherwise partial view wont work
 
             app.Run();
         }
