@@ -1,8 +1,9 @@
 ﻿using Microsoft.AspNetCore.Identity;
+using SAOnlineMart.Services.Interface;
 
 namespace SAOnlineMart.Services.Implementation
 {
-    public class AccountSeederService
+    public class AccountSeederService : IAccountSeederService
     {
         private readonly UserManager<IdentityUser> _userManager;
 

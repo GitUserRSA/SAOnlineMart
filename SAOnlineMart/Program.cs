@@ -30,6 +30,9 @@ namespace SAOnlineMart
             builder.Services.AddScoped<IFileService, FileService>(); //DI for image handling
             builder.Services.AddScoped<IProductRepoService, ProductRepoService>(); //Di for adding products to db
 
+            builder.Services.AddScoped<IRoleManagerService, RoleManagerService>(); //DI for role manager service
+            builder.Services.AddScoped<IAccountSeederService, AccountSeederService>(); //DI for account seeding services
+
             builder.Services.AddRazorPages();
 
             var app = builder.Build();
