@@ -6,6 +6,5 @@
 
         public bool DeleteImage(string imageFileName);
 
-        public string GetRootPath(string ImagePath);
     }
 }
