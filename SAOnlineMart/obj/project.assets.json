@@ -8587,11 +8587,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart_API\\SAOnlineMart\\SAOnlineMart.csproj",
+      "projectUniqueName": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart\\SAOnlineMart.csproj",
       "projectName": "SAOnlineMart",
-      "projectPath": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart_API\\SAOnlineMart\\SAOnlineMart.csproj",
+      "projectPath": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart\\SAOnlineMart.csproj",
       "packagesPath": "C:\\Users\\Uzair's Work Account\\.nuget\\packages\\",
-      "outputPath": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart_API\\SAOnlineMart\\obj\\",
+      "outputPath": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

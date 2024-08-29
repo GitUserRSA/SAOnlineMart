@@ -17,63 +17,83 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SAOnlineMart
 build_property.RootNamespace = SAOnlineMart
-build_property.ProjectDir = F:\AppData\Roaming\Programming\ITEHA3_Assignment\SAOnlineMart\SAOnlineMart_API\SAOnlineMart\
+build_property.ProjectDir = F:\AppData\Roaming\Programming\ITEHA3_Assignment\SAOnlineMart\SAOnlineMart\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\AppData\Roaming\Programming\ITEHA3_Assignment\SAOnlineMart\SAOnlineMart_API\SAOnlineMart
+build_property.MSBuildProjectDirectory = F:\AppData\Roaming\Programming\ITEHA3_Assignment\SAOnlineMart\SAOnlineMart
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/AppData/Roaming/Programming/ITEHA3_Assignment/SAOnlineMart/SAOnlineMart_API/SAOnlineMart/Areas/Identity/Pages/Account/Register.cshtml]
+[F:/AppData/Roaming/Programming/ITEHA3_Assignment/SAOnlineMart/SAOnlineMart/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/AppData/Roaming/Programming/ITEHA3_Assignment/SAOnlineMart/SAOnlineMart_API/SAOnlineMart/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[F:/AppData/Roaming/Programming/ITEHA3_Assignment/SAOnlineMart/SAOnlineMart/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/AppData/Roaming/Programming/ITEHA3_Assignment/SAOnlineMart/SAOnlineMart_API/SAOnlineMart/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[F:/AppData/Roaming/Programming/ITEHA3_Assignment/SAOnlineMart/SAOnlineMart/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/AppData/Roaming/Programming/ITEHA3_Assignment/SAOnlineMart/SAOnlineMart_API/SAOnlineMart/Areas/Identity/Pages/_ViewImports.cshtml]
+[F:/AppData/Roaming/Programming/ITEHA3_Assignment/SAOnlineMart/SAOnlineMart/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/AppData/Roaming/Programming/ITEHA3_Assignment/SAOnlineMart/SAOnlineMart_API/SAOnlineMart/Areas/Identity/Pages/_ViewStart.cshtml]
+[F:/AppData/Roaming/Programming/ITEHA3_Assignment/SAOnlineMart/SAOnlineMart/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/AppData/Roaming/Programming/ITEHA3_Assignment/SAOnlineMart/SAOnlineMart_API/SAOnlineMart/Views/Home/Index.cshtml]
+[F:/AppData/Roaming/Programming/ITEHA3_Assignment/SAOnlineMart/SAOnlineMart/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/AppData/Roaming/Programming/ITEHA3_Assignment/SAOnlineMart/SAOnlineMart_API/SAOnlineMart/Views/Home/Privacy.cshtml]
+[F:/AppData/Roaming/Programming/ITEHA3_Assignment/SAOnlineMart/SAOnlineMart/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/AppData/Roaming/Programming/ITEHA3_Assignment/SAOnlineMart/SAOnlineMart_API/SAOnlineMart/Views/Shared/Error.cshtml]
+[F:/AppData/Roaming/Programming/ITEHA3_Assignment/SAOnlineMart/SAOnlineMart/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/AppData/Roaming/Programming/ITEHA3_Assignment/SAOnlineMart/SAOnlineMart/Views/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/AppData/Roaming/Programming/ITEHA3_Assignment/SAOnlineMart/SAOnlineMart/Views/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/AppData/Roaming/Programming/ITEHA3_Assignment/SAOnlineMart/SAOnlineMart/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/AppData/Roaming/Programming/ITEHA3_Assignment/SAOnlineMart/SAOnlineMart/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/AppData/Roaming/Programming/ITEHA3_Assignment/SAOnlineMart/SAOnlineMart/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/AppData/Roaming/Programming/ITEHA3_Assignment/SAOnlineMart/SAOnlineMart_API/SAOnlineMart/Views/Shared/_LoginPartial.cshtml]
+[F:/AppData/Roaming/Programming/ITEHA3_Assignment/SAOnlineMart/SAOnlineMart/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/AppData/Roaming/Programming/ITEHA3_Assignment/SAOnlineMart/SAOnlineMart_API/SAOnlineMart/Views/Shared/_ValidationScriptsPartial.cshtml]
+[F:/AppData/Roaming/Programming/ITEHA3_Assignment/SAOnlineMart/SAOnlineMart/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/AppData/Roaming/Programming/ITEHA3_Assignment/SAOnlineMart/SAOnlineMart_API/SAOnlineMart/Views/_ViewImports.cshtml]
+[F:/AppData/Roaming/Programming/ITEHA3_Assignment/SAOnlineMart/SAOnlineMart/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/AppData/Roaming/Programming/ITEHA3_Assignment/SAOnlineMart/SAOnlineMart_API/SAOnlineMart/Views/_ViewStart.cshtml]
+[F:/AppData/Roaming/Programming/ITEHA3_Assignment/SAOnlineMart/SAOnlineMart/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/AppData/Roaming/Programming/ITEHA3_Assignment/SAOnlineMart/SAOnlineMart_API/SAOnlineMart/Views/Shared/_Layout.cshtml]
+[F:/AppData/Roaming/Programming/ITEHA3_Assignment/SAOnlineMart/SAOnlineMart/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-wx65pcv81g
