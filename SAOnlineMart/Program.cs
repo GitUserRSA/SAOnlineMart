@@ -35,6 +35,8 @@ namespace SAOnlineMart
             builder.Services.AddScoped<IRoleManagerService, RoleManagerService>(); //DI for role manager service
             builder.Services.AddScoped<IAccountSeederService, AccountSeederService>(); //DI for account seeding services
 
+            builder.Services.AddScoped<ICartActions,CartActions>(); //Di for cart actions
+
             builder.Services.AddRazorPages(); //Add razor pages services
 
             var app = builder.Build();
