@@ -11,6 +11,6 @@ namespace SAOnlineMart.Data
         {
 
         }
-        public DbSet<ProductsModel> Products { get; set; } = default!;
+        public DbSet<ProductsModel> Products { get; set; }
     }
 }

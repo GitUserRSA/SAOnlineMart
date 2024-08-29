@@ -1,21 +1,31 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using SAOnlineMart.Data;
 using SAOnlineMart.Models;
+using SAOnlineMart.Services.Implementation;
+using SAOnlineMart.Services.Interface;
 
 namespace SAOnlineMart.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController(IRoleManagerService roleService, IAccountSeederService accountSeederService, AppDbContext context) : Controller
     {
-        private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
-        {
-            _logger = logger;
-        }
+        private readonly IRoleManagerService _roleService = roleService;
 
-        public IActionResult Index()
+        private readonly IAccountSeederService _accountSeederService = accountSeederService;
+
+        private readonly AppDbContext _context = context;
+
+        public async Task<IActionResult> Index() //Home page index
         {
-            return View();
+            Console.WriteLine("Init roles...");
+
+            await _roleService.SeedManagerRoles(); //Initialize roles
+
+            await _accountSeederService.SeedAccounts(); //Seed the admin account
+
+            return View(await _context.Products.ToListAsync()); //List all the products currently available
         }
 
         public IActionResult Privacy()
