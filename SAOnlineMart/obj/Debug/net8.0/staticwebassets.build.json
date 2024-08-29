@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "S33Prd3+eEe4W0n9lnYRn/tt7zC/uI9LlWAW8oeZAbM=",
+  "Hash": "fLP9N62HYDYmPqCGw5S1uODZc+YE4FtxaRK84kUQ3ts=",
   "Source": "SAOnlineMart",
   "BasePath": "_content/SAOnlineMart",
   "Mode": "Default",
@@ -2333,6 +2333,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart\\wwwroot\\Uploads\\625e6bd5-60d5-4a13-9a0b-4f08085869c7.png",
+      "SourceId": "SAOnlineMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart\\wwwroot\\",
+      "BasePath": "_content/SAOnlineMart",
+      "RelativePath": "Uploads/625e6bd5-60d5-4a13-9a0b-4f08085869c7.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\625e6bd5-60d5-4a13-9a0b-4f08085869c7.png"
     }
   ]
 }
