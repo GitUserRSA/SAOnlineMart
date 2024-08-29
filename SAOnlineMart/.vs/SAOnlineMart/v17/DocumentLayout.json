@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|f:\\appdata\\roaming\\programming\\iteha3_assignment\\saonlinemart\\saonlinemart\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|solutionrelative:models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|f:\\appdata\\roaming\\programming\\iteha3_assignment\\saonlinemart\\saonlinemart\\models\\orderdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|solutionrelative:models\\orderdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|f:\\appdata\\roaming\\programming\\iteha3_assignment\\saonlinemart\\saonlinemart\\models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|solutionrelative:models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDetailModel.cs",
+              "DocumentMoniker": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart\\Models\\OrderDetailModel.cs",
+              "RelativeDocumentMoniker": "Models\\OrderDetailModel.cs",
+              "ToolTip": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart\\Models\\OrderDetailModel.cs",
+              "RelativeToolTip": "Models\\OrderDetailModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T22:09:04.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart\\Models\\OrderModel.cs",
+              "RelativeDocumentMoniker": "Models\\OrderModel.cs",
+              "ToolTip": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart\\Models\\OrderModel.cs",
+              "RelativeToolTip": "Models\\OrderModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswBEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T22:08:27.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartModel.cs",
+              "DocumentMoniker": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart\\Models\\CartModel.cs",
+              "RelativeDocumentMoniker": "Models\\CartModel.cs",
+              "ToolTip": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart\\Models\\CartModel.cs",
+              "RelativeToolTip": "Models\\CartModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T22:07:42.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
