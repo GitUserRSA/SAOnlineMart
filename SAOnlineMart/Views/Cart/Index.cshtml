@@ -9,9 +9,19 @@
 <h3>
     <em>Review</em> your cart:
 </h3>
-<p class="btn btn-light">
-    @Html.ActionLink("Checkout>>", "AddressAndPayment", "Checkout")
-</p>
+
+
+@if (Model.CartItems.Count> 0)
+{
+    <p class="btn btn-light">
+        @Html.ActionLink("Checkout>>", "AddressAndPayment", "Checkout")
+    </p>
+}
+else
+{
+    <button disabled="disabled" class="btn btn-light">Checkout</button>
+}
+
 <div id="update-message">
 </div>
 <table>

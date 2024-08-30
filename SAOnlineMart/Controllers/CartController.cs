@@ -25,14 +25,15 @@ namespace SAOnlineMart.Controllers
         {
             var cart = CartActions.GetCart(_context, _httpContextAccessor);
 
-            // Set up our ViewModel
+            // Set up view model
             var viewModel = new ShoppingCartViewModel
             {
+                //Get the cart items and their total
                 CartItems = cart.GetCartItems(),
                 CartTotal = cart.GetTotal()
             };
 
-            // Set CartCount in ViewData
+            // Set CartCount for the partial view
             ViewData["CartCount"] = cart.GetCartItems().Count();
 
             // Return the view
