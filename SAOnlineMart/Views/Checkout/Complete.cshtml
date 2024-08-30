@@ -1,0 +1,15 @@
+﻿@model int
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewBag.Title = "Checkout Complete";
+}
+
+<h2>Checkout Complete</h2>
+<p>Thanks for your order! Your order number is: @Model</p>
+<p>
+    How about shopping for some more products?
+    @Html.ActionLink("store",
+            "Index", "Home")
+</p>
