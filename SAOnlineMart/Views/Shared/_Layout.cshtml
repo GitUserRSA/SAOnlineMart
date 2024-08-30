@@ -27,7 +27,7 @@
                         </li>
 
                         <!--If the user is an admin then show these nav bar -->
-                        @if (User.IsInRole("")) 
+                        @if (User.IsInRole("Admin")) 
                         {
                             <li class="nav-item">
                                 <a class="nav-link text-dark" asp-area="" asp-controller="Products" asp-action="Index">Products</a>

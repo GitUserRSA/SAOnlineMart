@@ -9,7 +9,7 @@
 <h3>
     <em>Review</em> your cart:
 </h3>
-<p class="button">
+<p class="btn btn-light">
     @Html.ActionLink("Checkout>>", "AddressAndPayment", "Checkout")
 </p>
 <div id="update-message">
@@ -34,7 +34,7 @@
 
             <tr id="row-@item.ProductId">
                 <td>@item.Products.ProductName</td>
-                <td>@(item.Products.PriceIncents / 100.0)</td>
+                <td>@($"{item.Products.PriceIncents / 100.0:C}")</td>
                 <td id="item-count-@item.ProductId">@item.Count</td>
                 <td>
                     <a asp-action="RemoveFromCart" asp-route-id="@item.RecordId" class="RemoveLink">Remove</a>
@@ -58,7 +58,7 @@
         <td>
         </td>
         <td id="cart-total">
-            @(Model.CartTotal / 100.0)
+            @($"{Model.CartTotal / 100.0:C}")
         </td>
     </tr>
 </table>
