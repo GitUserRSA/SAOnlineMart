@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|f:\\appdata\\roaming\\programming\\iteha3_assignment\\saonlinemart\\saonlinemart\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|solutionrelative:controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|f:\\appdata\\roaming\\programming\\iteha3_assignment\\saonlinemart\\saonlinemart\\views\\checkout\\complete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|solutionrelative:views\\checkout\\complete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|f:\\appdata\\roaming\\programming\\iteha3_assignment\\saonlinemart\\saonlinemart\\views\\checkout\\addressandpayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|solutionrelative:views\\checkout\\addressandpayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|f:\\appdata\\roaming\\programming\\iteha3_assignment\\saonlinemart\\saonlinemart\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|solutionrelative:controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D33FDE99-9C4A-4EB0-B53D-9EDD539326F0}|SAOnlineMart.csproj|f:\\appdata\\roaming\\programming\\iteha3_assignment\\saonlinemart\\saonlinemart\\viewmodels\\shoppingcartremoveviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,43 +50,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Complete.cshtml",
               "DocumentMoniker": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart\\Views\\Checkout\\Complete.cshtml",
               "RelativeDocumentMoniker": "Views\\Checkout\\Complete.cshtml",
               "ToolTip": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart\\Views\\Checkout\\Complete.cshtml",
               "RelativeToolTip": "Views\\Checkout\\Complete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-30T00:49:43.829Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AddressAndPayment.cshtml",
               "DocumentMoniker": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart\\Views\\Checkout\\AddressAndPayment.cshtml",
               "RelativeDocumentMoniker": "Views\\Checkout\\AddressAndPayment.cshtml",
               "ToolTip": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart\\Views\\Checkout\\AddressAndPayment.cshtml",
               "RelativeToolTip": "Views\\Checkout\\AddressAndPayment.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-30T00:48:31.143Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CheckoutController.cs",
               "DocumentMoniker": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart\\Controllers\\CheckoutController.cs",
               "RelativeDocumentMoniker": "Controllers\\CheckoutController.cs",
               "ToolTip": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart\\Controllers\\CheckoutController.cs",
               "RelativeToolTip": "Controllers\\CheckoutController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBEAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T00:46:56.19Z",
               "EditorCaption": ""
@@ -101,8 +101,7 @@
               "RelativeToolTip": "ViewModels\\ShoppingCartRemoveViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T22:38:28.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T22:38:28.595Z"
             },
             {
               "$type": "Document",
