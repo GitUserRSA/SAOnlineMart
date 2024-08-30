@@ -1,0 +1,29 @@
+﻿@model SAOnlineMart.Models.ProductsModel
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "ProductDetails";
+}
+
+<div class="card mb-3" style="max-width: 1000px;">
+    <div class="row g-0">
+        <div class="col-md-4">
+            <img src="~/Uploads/@Model.ProductImage" class="img-thumbnail" />
+        </div>
+        <div class="col-md-8">
+            <div class="card-body">
+                <h5 class="card-title">@Model.ProductName</h5>
+                <p class="card-text">@Model.ItemDescription</p>
+                <p class="card-text"><small class="text-muted">@($"{Model.PriceIncents / 100.0:C}")</small></p>
+
+                <!-- Add to Cart Form -->
+                <form asp-controller="Cart" asp-action="AddToCart" method="post">
+                    <input type="hidden" name="productId" value="@Model.Id" />
+                    <button type="submit" class="btn btn-primary">Add to Cart</button>
+                </form>
+
+            </div>
+        </div>
+    </div>
+</div>
