@@ -1,8 +1,55 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
+﻿@model IEnumerable<SAOnlineMart.Models.ProductsModel>
+
+@{
+    ViewData["Title"] = "Index";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<style>
+    .card:hover {
+        box-shadow: -1px 9px 40px rgba(0, 0, 0, 0.2); /* Shadow effect on hover */
+    }
+
+
+</style>
+
+<h1>Index</h1>
+
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        if (item.IsAvailableToBuy)
+        {
+            <div class="card card-hover" style="width: 18rem; margin:10px;">
+                <img src="~/Uploads/@item.ProductImage" class="card-img-top" />
+                <div class="card-body">
+                    <h5 class="card-title">@Html.DisplayFor(modelItem => item.ProductName)</h5>
+                    <p class="card-text">@($"{item.PriceIncents / 100.0:C}")</p>
+                    <a class="stretched-link" href="/home/ProductDetails/@item.Id"></a>
+                </div>
+            </div>
+        }
+        <!-- <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">Details</a> |-->
+    }
 </div>
+
+<script src="~/lib/jquery/dist/jquery.js"></script>
+
+<script type="text/javascript">
+    $('.card').hover(
+        function () {
+            $(this).animate({
+                marginTop: "-=1%",
+                marginBottom: "+=1%"
+            }, 200)
+        },
+        function () {
+            $(this).animate({
+                marginTop: "+=1%",
+                marginBottom: "-=1%"
+            })
+        }
+    )
+
+
+</script>
