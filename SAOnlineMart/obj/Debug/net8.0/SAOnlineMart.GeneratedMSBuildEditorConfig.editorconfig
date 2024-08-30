@@ -46,8 +46,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/AppData/Roaming/Programming/ITEHA3_Assignment/SAOnlineMart/SAOnlineMart/Views/Cart/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
+[F:/AppData/Roaming/Programming/ITEHA3_Assignment/SAOnlineMart/SAOnlineMart/Views/Checkout/AddressAndPayment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRcQWRkcmVzc0FuZFBheW1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/AppData/Roaming/Programming/ITEHA3_Assignment/SAOnlineMart/SAOnlineMart/Views/Checkout/Complete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRcQ29tcGxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [F:/AppData/Roaming/Programming/ITEHA3_Assignment/SAOnlineMart/SAOnlineMart/Views/Home/Index.cshtml]
