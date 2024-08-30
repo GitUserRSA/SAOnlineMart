@@ -21,7 +21,6 @@ namespace SAOnlineMart.Controllers
         {
             return View();
         }
-
         [HttpPost]
 
         public ActionResult AddressAndPayment([FromForm][Bind("FirstName,LastName,Address,City,State,PostalCode,Country,UpdateAt,Phone,Email")] OrderModel order)
