@@ -976,12 +976,12 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\SAOnlineMart.bundle.scp.css))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\625e6bd5-60d5-4a13-9a0b-4f08085869c7.png))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\55703784-0377-49f4-b2db-69b3932c11b4.png))">
       <SourceType>Package</SourceType>
       <SourceId>SAOnlineMart</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/SAOnlineMart</BasePath>
-      <RelativePath>Uploads/625e6bd5-60d5-4a13-9a0b-4f08085869c7.png</RelativePath>
+      <RelativePath>Uploads/55703784-0377-49f4-b2db-69b3932c11b4.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -990,7 +990,7 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\625e6bd5-60d5-4a13-9a0b-4f08085869c7.png))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\55703784-0377-49f4-b2db-69b3932c11b4.png))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>
