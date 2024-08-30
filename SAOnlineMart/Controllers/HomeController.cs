@@ -33,6 +33,30 @@ namespace SAOnlineMart.Controllers
             return View();
         }
 
+        //
+        // GET: /Store/Details/5
+        public ActionResult ProductDetails(Guid id)
+        {
+
+            var productsModel = _context.Products.Find(id);
+
+            if (productsModel.IsAvailableToBuy == false)
+            {
+                return RedirectToAction(nameof(PageNotFound));
+            }
+            else
+            {
+                return View(productsModel);
+
+            }
+
+        }
+
+        public IActionResult PageNotFound()
+        {
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using SAOnlineMart.Data;
 using SAOnlineMart.Services.Interface;
 using SAOnlineMart.Services.Implementation;
+using System.Globalization;
 
 namespace SAOnlineMart
 {
@@ -12,6 +13,13 @@ namespace SAOnlineMart
 
         public static async Task Main(string[] args)
         {
+            //Set the currency to rands
+            var cultureInfo = new CultureInfo("en-US");
+            cultureInfo.NumberFormat.CurrencySymbol = "R";
+
+            CultureInfo.DefaultThreadCurrentCulture = cultureInfo;
+            CultureInfo.DefaultThreadCurrentUICulture = cultureInfo;
+
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
@@ -29,11 +37,21 @@ namespace SAOnlineMart
                 .AddRoles<IdentityRole>() //Add identity role to the service
                 .AddEntityFrameworkStores<AppDbContext>();
 
+            builder.Services.AddSession(options =>
+            {
+                options.IdleTimeout = TimeSpan.FromMinutes(30); // Set the session timeout
+                options.Cookie.HttpOnly = true; // Make the session cookie HTTP-only
+                options.Cookie.IsEssential = true; // Make the session cookie essential for the application
+            });
+
+
             builder.Services.AddScoped<IFileService, FileService>(); //DI for image handling
             builder.Services.AddScoped<IProductRepoService, ProductRepoService>(); //Di for adding products to db
 
             builder.Services.AddScoped<IRoleManagerService, RoleManagerService>(); //DI for role manager service
             builder.Services.AddScoped<IAccountSeederService, AccountSeederService>(); //DI for account seeding services
+
+            builder.Services.AddScoped<ICartActions,CartActions>(); //Di for cart actions
 
             builder.Services.AddRazorPages(); //Add razor pages services
 
@@ -48,6 +66,9 @@ namespace SAOnlineMart
             }
 
             app.UseHttpsRedirection();
+
+            app.UseSession();
+
             app.UseStaticFiles();
 
             app.UseRouting();

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fLP9N62HYDYmPqCGw5S1uODZc+YE4FtxaRK84kUQ3ts=",
+  "Hash": "AJ61nfnYpKRZdOQejJRv1D003KPPW1hqt7XOdEdfjds=",
   "Source": "SAOnlineMart",
   "BasePath": "_content/SAOnlineMart",
   "Mode": "Default",
@@ -2335,12 +2335,12 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart\\wwwroot\\Uploads\\625e6bd5-60d5-4a13-9a0b-4f08085869c7.png",
+      "Identity": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart\\wwwroot\\Uploads\\55703784-0377-49f4-b2db-69b3932c11b4.png",
       "SourceId": "SAOnlineMart",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\AppData\\Roaming\\Programming\\ITEHA3_Assignment\\SAOnlineMart\\SAOnlineMart\\wwwroot\\",
       "BasePath": "_content/SAOnlineMart",
-      "RelativePath": "Uploads/625e6bd5-60d5-4a13-9a0b-4f08085869c7.png",
+      "RelativePath": "Uploads/55703784-0377-49f4-b2db-69b3932c11b4.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2351,7 +2351,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Uploads\\625e6bd5-60d5-4a13-9a0b-4f08085869c7.png"
+      "OriginalItemSpec": "wwwroot\\Uploads\\55703784-0377-49f4-b2db-69b3932c11b4.png"
     }
   ]
 }
